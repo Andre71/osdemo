@@ -12,3 +12,7 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 
 CMD ["start"]
 
+
+
+
+
